@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Yash Shroff
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning about Data Structures and Algorithms 
 - 📫 You can reach out to me on yashshroff99@gmail.com
 
 <!---
